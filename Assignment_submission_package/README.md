@@ -1,5 +1,4 @@
-Internship Assignment - Final Submission Package
-Deadline: September 12, 2025 23:59
+Video-Audio Converter
 
 This package contains two Flask APIs:
 - video_converter/  (runs on port 5001)
